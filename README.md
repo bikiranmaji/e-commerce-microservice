@@ -43,7 +43,7 @@ Before running the application, ensure you have the following installed:
    ```bash
    ./mvnw clean install
 
-3. Start the Application**:
+3. **Start the Application**:
 
    ```bash
    docker-compose up --build
