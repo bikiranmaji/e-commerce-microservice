@@ -38,12 +38,12 @@ Before running the application, ensure you have the following installed:
    git clone https://github.com/BIKIRANMAJI/E-COMMERCE-MICROSERVICE.git
    cd E-COMMERCE-MICROSERVICE
 
-2. **Build the Services:
+2. **Build the Services**:
 
    ```bash
    ./mvnw clean install
 
-3. Start the Application:
+3. Start the Application**:
 
    ```bash
    docker-compose up --build
